@@ -6,4 +6,4 @@ Nodejs and Express
 Like where I'm going with this? Donate https://paypal.me/masterdrue
 
 # License
-copyright Drue McCombs - DruesCloud.com 2020
+Drue McCombs - DruesCloud.com 2020
